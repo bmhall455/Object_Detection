@@ -1,0 +1,10 @@
+
+You are NOT at a save distance for this reading: 25. Speed adjusted to: 52 mph
+
+You are at a safe distance for this reading: 18.5. Maintain speed of: 55 mph
+
+You are NOT at a save distance for this reading: 22. Speed adjusted to: 52 mph
+
+You are at a safe distance for this reading: 15. Maintain speed of: 55 mph
+
+You are NOT at a save distance for this reading: 30. Speed adjusted to: 52 mph
